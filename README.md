@@ -1,3 +1,7 @@
+Changes in this fork
+--------------------
+Updated build-script, configuration and code to use scala 2.11.8 and akka 2.4.8.
+
 Akka Remote "Hello, world" Example
 ==================================
 
